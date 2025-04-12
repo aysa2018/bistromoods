@@ -12,7 +12,7 @@ BistroMoods is a web application that helps users find restaurants based on thei
 
 ## Repository Structure
 
-### The website: **[bistromoods](https://bistromoods-frontend-886616041508.us-central1.run.app)
+### The website: **[bistromoods](https://bistromoods-frontend-886616041508.us-central1.run.app)**
 
 ### Backend: **[bistromoods](https://github.com/yourusername/bistromoods)**
 
